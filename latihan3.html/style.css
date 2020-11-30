@@ -1,0 +1,38 @@
+h1{
+    color: brown;
+}
+.kotak1{
+    background-color: blue;
+    color: #ffffff;
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+    margin: 20px;
+    float: left;
+}
+.kotak2{
+        background-color: rgb(192, 192, 233);
+        color: #ffffff;
+        width: 100px;
+        height: 100px;
+        padding: 50px;
+        margin: 20px;
+        float: left;
+}
+.kotak3{
+        background-color: pink;
+        color: black;
+        width: 100px;
+        height: 100px;
+        padding: 50px;
+        margin: 20px;
+        float: left;
+}
+.kotak4{
+    background-color: orange;
+    color: #ffffff;
+    width: 100px;
+    height: 100px;
+    padding: 50px;
+    margin: 20px;
+    float: left;
